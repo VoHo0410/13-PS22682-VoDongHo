@@ -1,0 +1,125 @@
+.toanbo {
+     width: 100%;
+    height: auto;
+    background-image: url(logic.jpg);
+        }
+
+.menu {
+    width: 100%;
+    height: 120px;
+    background-color: #404040;
+    list-style: none;       
+}
+
+.menu ul li {
+    display: inline-block;
+    float: left;
+    margin-left: 30px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    padding: 15px 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo{
+    float: left;
+}
+body{
+    background-image: linear-gradient(0, rgba(114, 114, 6, 0.5), rgba(51, 15, 179, 0.5)), url(images/logic.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.content table tr th{
+    color: white;
+    font-size: 18px;
+    text-align: justify;
+}
+.content table tr th h2{
+    text-align: center;
+}
+.menu a:hover{
+    color: blanchedalmond;
+    }
+.toanbo {
+    width: 100%;
+    height: auto;
+}
+
+    .menu {
+    width: 100%;
+    height: 120px;
+    background-color: #404040;
+    list-style: none;
+}
+.menu ul li {
+    display: inline-block;
+    padding: 10px;
+        
+}
+.menu ul li a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    padding: 15px 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo {
+    float: left;
+}
+.tintuc {
+    list-style: none;
+}
+
+.tintuc ul {
+    font-size: 24px;
+    color: black;
+
+}
+
+.tintuc ul li {
+    float: left;
+    list-style: none;
+    margin-right: 10px;
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+    clear: left;
+    margin-im;
+}
+.tintuc ul h2 {
+    font-size: 24px;
+    list-style: none;
+    color: black;
+    margin-top: 0px;
+ }
+
+.tintuc ul li img {
+    float: left;
+    margin-right: 10px;
+}
+
+.tintuc ul h2 a {
+    text-decoration: none;
+    color: black;
+}
+.menu a:hover{
+    color: blanchedalmond;
+}
+.footter{
+    width: 102%;
+    height: 100px;
+    background-color: rgb(64, 81, 180);
+    position: absolute;
+    top: 670px;
+    text-align: center;
+}
+.lienhe{
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 0px 5px 40px;
+}
+.lienhe4 {
+    float: right;
+}
